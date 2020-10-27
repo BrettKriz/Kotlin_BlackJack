@@ -72,7 +72,7 @@
         android:background="#000000"
         android:clickable="true"
         android:onClick="clickMain"
-        android:text="YOU CANT BET!"
+        android:text="You're broke"
         android:textColor="#FFC107"
         android:textColorHighlight="#FF5722"
         android:textIsSelectable="false"
